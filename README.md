@@ -28,3 +28,5 @@ simple types of vulnerabilities (e.g., timestamp dependency and block number
 dependency vulnerabilities), with instruction coverage improvements of 3.8% and
 4.1%, respectively.
 Keywords: Fuzz Testing, Smart Contracts, LLM, Seed Set Generation, Prompts
+<img width="358" alt="1" src="https://github.com/user-attachments/assets/188973c0-2f98-4cd2-8319-b250a39307f1">
+
